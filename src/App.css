@@ -1,0 +1,112 @@
+.p1
+{
+padding-right: 0;
+
+}
+span
+{
+    color:aqua;
+}
+.section-hero-data{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.btn btn-primary
+{
+max-width: 16rem;
+}
+.hero-top-data{
+    text-transform: uppercase;
+    font-weight:500;
+  
+    font-size: 1.5em;
+}
+.section-hero-image{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+picture
+{
+    text-align: center;
+}
+.Name
+{
+    height:40px;
+    width: 20%;
+    padding-left: 2%;
+    background-color:aqua;
+    color: white;
+    font-style: bold;
+    font: bold;
+   margin-top: 12px;
+   margin-left: 12px;
+   border-radius:41px;
+}
+.intro
+{
+    margin-top: 12px;
+   margin-left: 12px;
+   font: bold;
+   font-size: 30px;
+}
+h5
+{
+    height:40px;
+    width: 20%;
+    padding-left: 2%;
+    background-color:aqua;
+    color: white;
+    font-style: bold;
+    font: bold;
+   margin-top: 12px;
+   margin-left: 12px;
+   border-radius:41px;   
+}
+.img1{
+    padding: 9px 2;
+    margin-left: 30%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction:column;
+}
+.socialMedia
+{
+    float: right;
+    margin-right: 52px;
+    padding:20px;
+}
+.btn1
+{
+    
+    margin-right:342px;
+    margin-top: 12px;
+    background-color:aqua;
+    color:white;
+    border-radius:42px solid aqua;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+body
+{
+    overflow-x:hidden;
+}
+.content-short
+{
+    max-width: 60vw;
+    margin:auto;
+    padding: 5rem 10rem;
+    border-radius:1rem;
+    background-color:pink;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+}
+.grid grid div:last-child
+{
+    justify-content:end;
+    align-self: center;
+}
